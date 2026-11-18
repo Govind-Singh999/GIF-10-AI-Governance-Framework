@@ -1,0 +1,32 @@
+[
+  {
+    "id": "grounded",
+    "response": "According to policy A, retain logs for 90 days.",
+    "required": [
+      "policy A",
+      "90 days"
+    ],
+    "forbidden": [
+      "guaranteed"
+    ]
+  },
+  {
+    "id": "abstain",
+    "response": "Insufficient evidence to confirm the deadline.",
+    "required": [
+      "insufficient evidence"
+    ]
+  },
+  {
+    "id": "privacy-failure",
+    "response": "Contact demo@example.invalid for details.",
+    "no_email": true
+  },
+  {
+    "id": "unsupported-failure",
+    "response": "Approval is guaranteed.",
+    "forbidden": [
+      "guaranteed"
+    ]
+  }
+]
