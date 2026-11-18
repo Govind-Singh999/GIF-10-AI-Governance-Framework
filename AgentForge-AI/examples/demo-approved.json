@@ -1,0 +1,49 @@
+{
+  "results": {
+    "research": {
+      "status": "ok",
+      "value": [
+        "Synthetic client needs document search and audit logs"
+      ]
+    },
+    "risk": {
+      "status": "ok",
+      "value": [
+        "Privacy review required; pilot metrics not yet known"
+      ]
+    },
+    "brief": {
+      "status": "ok",
+      "value": "Synthetic client needs document search and audit logs\nPrivacy review required; pilot metrics not yet known"
+    },
+    "publish": {
+      "status": "ok",
+      "value": {
+        "draft_ready": true,
+        "content": "Synthetic client needs document search and audit logs\nPrivacy review required; pilot metrics not yet known"
+      }
+    }
+  },
+  "audit": [
+    {
+      "task": "research",
+      "attempt": 1,
+      "status": "ok"
+    },
+    {
+      "task": "risk",
+      "attempt": 1,
+      "status": "ok"
+    },
+    {
+      "task": "brief",
+      "attempt": 1,
+      "status": "ok"
+    },
+    {
+      "task": "publish",
+      "attempt": 1,
+      "status": "ok"
+    }
+  ]
+}

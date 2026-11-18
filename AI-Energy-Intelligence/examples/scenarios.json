@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Baseline (synthetic)",
+    "accelerators": 128,
+    "idle_kw": 0.15,
+    "peak_kw": 0.7,
+    "utilization": 0.65,
+    "other_it_kw": 18,
+    "hours": 8760,
+    "pue": 1.4,
+    "usd_per_kwh": 0.1,
+    "kg_co2e_per_kwh": 0.4
+  },
+  {
+    "name": "Efficient facility (synthetic)",
+    "accelerators": 128,
+    "idle_kw": 0.15,
+    "peak_kw": 0.7,
+    "utilization": 0.65,
+    "other_it_kw": 18,
+    "hours": 8760,
+    "pue": 1.15,
+    "usd_per_kwh": 0.1,
+    "kg_co2e_per_kwh": 0.25
+  }
+]

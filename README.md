@@ -1,26 +1,14 @@
-# AI Governance Framework — Portfolio Workspace
+# AI Portfolio Workspace
 
-This repository currently hosts an AI-assisted educational prototype for evaluating AI-generated responses. It is a demonstration of governance engineering, not a published definition or implementation of the GIF-10 framework, an official standard, or a compliance certification.
+Four AI engineering experiments hosted together temporarily. These are AI-assisted learning prototypes, not production systems or independently validated research. This workspace is not a definition or implementation of the GIF-10 framework or a compliance certification.
 
-## AI Governance Lab
+| Project | Focus |
+| --- | --- |
+| [AgentForge-AI](AgentForge-AI/) | Dependency-aware multi-agent orchestration, approval gates |
+| [AI-Energy-Intelligence](AI-Energy-Intelligence/) | AI infrastructure energy, cost and operational emissions modeling |
+| [Enterprise-RAG-Engine](Enterprise-RAG-Engine/) | BM25 document retrieval and evidence-linked answers |
+| [AI-Governance-Lab](AI-Governance-Lab/) | Rule-based response evaluation and privacy indicators |
 
-- [Evaluation harness and architecture](AI-Governance-Lab/README.md)
-- [Python evaluator](AI-Governance-Lab/evaluate.py)
-- [Synthetic evaluation cases](AI-Governance-Lab/examples/cases.json)
-- [Automated tests](AI-Governance-Lab/tests/test_evaluate.py)
+Each project has a README, Python source, synthetic examples and unit tests. See each project for setup instructions, assumptions and limitations. No private or customer data is included.
 
-**Scope:** deterministic checks for required and forbidden phrases and simple email-pattern privacy indicators. Local evaluation only; no production or customer data.
-
-## Quick start
-
-Requires Python 3.10 or newer (standard library only).
-
-```bash
-cd AI-Governance-Lab
-python evaluate.py examples/cases.json
-python -m unittest discover -s tests -v
-```
-
-The sample intentionally includes both passing and failing responses.
-
-**Attribution:** AI-assisted code and documentation prepared for portfolio learning, review, and experimentation. No claim of independent authorship or production validation.
+The projects are separate directories in this repository, pending creation of standalone repositories.

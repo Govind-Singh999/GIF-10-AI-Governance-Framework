@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Baseline (synthetic)",
+    "average_it_kw": 82.96,
+    "it_kwh": 726729.6,
+    "facility_kwh": 1017421.44,
+    "electricity_cost_usd": 101742.144,
+    "operational_tonnes_co2e": 406.968576
+  },
+  {
+    "name": "Efficient facility (synthetic)",
+    "average_it_kw": 82.96,
+    "it_kwh": 726729.6,
+    "facility_kwh": 835739.0399999999,
+    "electricity_cost_usd": 83573.904,
+    "operational_tonnes_co2e": 208.93475999999998
+  }
+]

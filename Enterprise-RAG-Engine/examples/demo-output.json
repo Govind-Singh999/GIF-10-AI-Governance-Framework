@@ -1,0 +1,11 @@
+{
+  "status": "evidence_found",
+  "evidence": [
+    {
+      "source": "security.txt",
+      "paragraph": 1,
+      "excerpt": "Synthetic security policy: The retention period for audit logs is 90 days. The security team reviews access logs weekly.",
+      "score": 4.7916
+    }
+  ]
+}

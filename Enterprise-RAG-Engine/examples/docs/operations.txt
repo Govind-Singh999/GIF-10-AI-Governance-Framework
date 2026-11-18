@@ -1,0 +1,3 @@
+Synthetic operations policy: Critical incidents require escalation to the duty manager within 30 minutes.
+
+Backup restoration exercises occur quarterly. Document results and corrective actions.

@@ -1,0 +1,3 @@
+Synthetic security policy: The retention period for audit logs is 90 days. The security team reviews access logs weekly.
+
+Access to internal systems requires multi-factor authentication. Review permissions every quarter.
