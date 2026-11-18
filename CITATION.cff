@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you reference this conceptual research proposal, please cite the author and white paper. The reserved Zenodo DOI is pending publication."
+title: "Beyond Superintelligence: A Control Architecture for Autonomous AI, Frontier Systems and Enterprise Governance — The Govind Intelligence Framework (GIF-10)"
+type: generic
+authors:
+  - family-names: Kushwah
+    given-names: Govind Singh
+    orcid: "https://orcid.org/0009-0000-5675-7959"
+version: "1.0"
+abstract: "A proposed ten-domain AI governance architecture separating model intelligence, independently enforced authority and assurance. Conceptual, AI-assisted research; experimental validation and peer review pending."
+keywords:
+  - AI governance
+  - AI safety
+  - autonomous agents
+  - AI control
+  - enterprise AI
+  - action authorization
